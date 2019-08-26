@@ -105,6 +105,17 @@ ol {
 	margin: 0;
 }
 
+#product-section{
+	margin-bottom : 30px;
+	margin-top: 30px;
+	
+}
+
+#trackbottom{
+	margin-bottom: 30px;
+	margin-top: 30px;
+	
+}
 /*---------------------
   Helper CSS
 -----------------------*/
@@ -556,6 +567,7 @@ ol {
 	padding-left: 15px;
 	padding-right: 15px;
 	text-align: center;
+	padding-bottom: 50px;
 }
 
 .single-features .feature-text .feature-icon {
@@ -850,9 +862,11 @@ ol {
 /*---------------------
   Footer
 -----------------------*/
-
+#footer-img{
+	margin-top: -90px;
+}
 .footer-section {
-	height: 641px;
+	height: 500px;
 	padding-top: 109px;
 }
 
@@ -1368,7 +1382,9 @@ ol {
 /*---------------------
   Feature Call To Action
 -----------------------*/
-
+#installation {
+	text-align: center;
+}
 .classes-callto-section {
 	padding-top: 51px;
 	padding-bottom: 58px;
@@ -1461,7 +1477,7 @@ ol {
 }
 
 .single-blog-item .blog-text {
-	text-align: center;
+	text-align: left;
 }
 
 .single-blog-item .blog-text h2 {
