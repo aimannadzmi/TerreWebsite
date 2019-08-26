@@ -1944,6 +1944,9 @@ ol {
 	line-height: 30px;
 }
 
+.about-img {
+	height: 557px;
+}
 /*....................  Resposive Media Styles  .......................*/
 
 @media (max-width: 1400px) {
@@ -2062,7 +2065,7 @@ ol {
 		text-align: center;
 		margin-bottom: 50px;
 	}
-	.trainer-img .img-hover {
+	.trainer-img .img-hover  {
 		padding: 14px 18px;
 	}
 	.upcoming-classes {
