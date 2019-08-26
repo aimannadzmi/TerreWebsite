@@ -107,14 +107,34 @@ ol {
 
 #product-section{
 	margin-bottom : 30px;
-	margin-top: 30px;
-	
 }
 
+#product-section-1{
+	padding-bottom: 30px;
+}
+
+#sizechart{
+	margin-top: 30px;
+}
+
+#sizechart-img{
+	height: 450px;
+	width: 800px;
+	object-position: center;
+	text-align: center;
+}
 #trackbottom{
 	margin-bottom: 30px;
 	margin-top: 30px;
+	left:25%;
 	
+	
+}
+
+#product-trackbottom {
+
+	height: 600px;
+	width: 575px;
 }
 /*---------------------
   Helper CSS
