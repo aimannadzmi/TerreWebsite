@@ -110,16 +110,22 @@ ol {
 }
 
 #product-section-1{
+	padding-top: 30px;
 	padding-bottom: 30px;
 }
 
+#product-section-2{
+	padding-bottom: 50px;
+	background-color: #2B1691;
+}
 #sizechart{
-	margin-top: 30px;
+	padding-top: 30px;
+	left:20%;
 }
 
 #sizechart-img{
-	height: 450px;
-	width: 800px;
+	height: 600px;
+	width: 1000px;
 	object-position: center;
 	text-align: center;
 }
@@ -133,7 +139,7 @@ ol {
 
 #product-trackbottom {
 
-	height: 600px;
+	height: 680px;
 	width: 575px;
 }
 /*---------------------
